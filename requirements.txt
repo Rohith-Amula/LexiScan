@@ -1,0 +1,13 @@
+streamlit
+opencv-python
+opencv-python-headless
+numpy
+Pillow
+tensorflow
+spacy
+easyocr
+transformers
+pyspellchecker
+pyrebase4
+flask
+flask-cors
